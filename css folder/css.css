@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    margin: 40px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+h2 {
+    font-size: 20px;
+}
+
+.notes-list h2 {    
+    font-size: 20px;
+    font-style: bold;
+    background-color: royalblue;
+    color: lightyellow;
+    border: 1px solid black;
+    margin-bottom: 10px; 
+}
+
+li {
+    margin-bottom: 5px;
+  }
+
+p a {
+    color: 4285f4; 
+    font-weight: bold;
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline;
+  }

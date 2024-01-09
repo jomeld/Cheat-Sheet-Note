@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+  }
+
+  div {
+    text-align: center;
+  }
+
+  img {
+    width: 650px;
+    height: 500;
+    margin-top: 10px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  li {
+    margin: 20px 30px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: skyblue;
+    padding: 10px 20px;
+    background-color: black;
+    border-radius: 5px;
+    border: 20px;
+  }
+  
+  a:hover {
+    background-color: #ddd;
+  }
+  li.git {
+    margin:30px;
+}
+li.html {
+    margin:30px;
+}
+li.css {
+    margin:30px;
+}
+
